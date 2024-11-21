@@ -5,23 +5,23 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Bio"
-    url: /Bio/
+  - title: "bio"
+    url: /
 
   - title: "Publications"
     url: /publications/
 
   - title: "Research"
-    url: /Research/
+    url: /research/
     
   - title: "Students"
-    url: /Students/
+    url: /students/
         
   - title: "Stars"
-    url: /Stars/
+    url: /stars/
     
   - title: "Applications"
-    url: /Applications/
+    url: /applications/
     
   - title: "Services"
-    url: /Services/
+    url: /services/

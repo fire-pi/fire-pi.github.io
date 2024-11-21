@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Bio"
-permalink: /Bio/
+title: "bio"
+permalink: /
 author_profile: true
 redirect_from:
-  - /Bio
+  - /
 ---
 
 {% include base_path %}
